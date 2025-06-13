@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQFPGDPHnmWNaQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1707066797292?e=2147483647&v=beta&t=b4v3vBFZdaXfMGHjUgfs_qvc3Vk_yg-gEL0SBuvMrv4"  />
-</div>
+
 
 ###
 
